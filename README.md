@@ -1,2 +1,1 @@
-# first-project
-new repository
+basic python code with basic problems.
